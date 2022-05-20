@@ -19,6 +19,7 @@ protected:
 	~Member();
 }; 
 
+
 #include "member.h"
 #include<cstring>
 Member::Member() {};
